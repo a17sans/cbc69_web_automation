@@ -1,0 +1,11 @@
+{
+    "license_input": "/html/body/div/div/section/header/div/section[1]/div/div/form/input",
+    "player_profile": "/html/body/div/div/section/section/section/section/div/table/tbody/tr/td[1]/span/a",
+    "name": "/html/body/div/div/section/section/header/div/div[2]/h1",
+    "singles_mean": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[1]/div/div[1]/div/article/p",
+    "doubles_mean": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[2]/div/div[1]/div/article/p",
+    "mixed_doubles_mean": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[3]/div/div[1]/div/article/p",
+    "singles_ranking": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[1]/div/div[1]/div/article/span",
+    "doubles_ranking": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[2]/div/div[1]/div/article/span",
+    "mixed_doubles_ranking": "/html/body/div/div/section/section/section/section/section[1]/div/section/section[3]/div/div[1]/div/article/span"
+}

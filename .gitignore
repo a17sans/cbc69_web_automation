@@ -133,3 +133,6 @@ geckodriver.log
 
 # Virtualenv
 .virtualenv
+
+# vs code
+.vscode

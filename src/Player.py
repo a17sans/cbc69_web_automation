@@ -8,7 +8,7 @@ class Player:
 
     def __init__(self):
         """Loads json xpaths file, and instanciates the web driver."""
-        self.xpaths = json.load('xpaths.json')
+        self.xpaths = json.load('../settings/player_xpaths.json')
 
         options = webdriver.FirefoxOptions()
         options.add_argument('enable-automation')
